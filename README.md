@@ -1,2 +1,2 @@
-# BVS `Boa Vista
+# BVS Boa Vista
 # meu-projeto
